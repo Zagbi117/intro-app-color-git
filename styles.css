@@ -33,7 +33,7 @@ input[type="color"] {
     font-weight: bold;
     transition: all 0.3s ease;
 }
-
+/*Comentario*/
 input[type="number"]:focus,
 input[type="color"]:focus {
     border-color: #ff00ff; /* Color rosa neón al enfocar */

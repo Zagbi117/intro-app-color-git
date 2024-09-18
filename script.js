@@ -9,6 +9,7 @@ const colorBox = document.getElementById('colorBox');
 const hexCode = document.getElementById('hexCode');
 const colorPicker = document.getElementById('colorPicker');
 
+
 // Función para convertir un valor decimal a hexadecimal
 function decimalToHex(decimal) {
     let hex = decimal.toString(16);
